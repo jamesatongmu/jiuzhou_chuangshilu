@@ -108,6 +108,10 @@ jiazhou_world/
 > **完全离线玩法（可选）**：将 `.env` 改为 `JZ_LLM_BACKEND=mock` 与 `JZ_OFFLINE_FALLBACK=true` 可免 key 运行，但剧情会退化为套话模板，且无 AI 剧情、无图无视频。
 
 > 说明：仓库内附带的 `.git` 目录仅供版本管理，不影响运行，可保留也可删除；各电脑的 `data/saves/` 存档相互独立，不互通。
+> <img width="1920" height="1080" alt="无标题4" src="https://github.com/user-attachments/assets/9df7f6a1-9bd0-4b29-9945-26bcc7958be1" />
+<img width="1920" height="1080" alt="无标题7" src="https://github.com/user-attachments/assets/d24d117c-706f-45c1-a07a-d53cb2b0e5da" />
+
+
 
 ## 📄 License
 
